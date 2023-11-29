@@ -10,7 +10,7 @@ function App() {
           This is Heading One 
         </h1>
         <p>
-          lorem200
+          Lets learn docker and containerized applications.
         </p>
         <a
           className="App-link"
