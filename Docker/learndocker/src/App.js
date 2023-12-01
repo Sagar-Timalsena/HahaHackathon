@@ -12,6 +12,9 @@ function App() {
         <p>
           Lets learn docker and containerized applications.
         </p>
+        <p>
+          lorem ipsum dolor sit amet, consectetur adip non proident du
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
