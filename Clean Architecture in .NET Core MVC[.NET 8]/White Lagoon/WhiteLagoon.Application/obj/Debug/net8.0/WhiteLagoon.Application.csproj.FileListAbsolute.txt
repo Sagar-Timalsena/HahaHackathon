@@ -1,0 +1,12 @@
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.deps.json
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.dll
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfoInputs.cache
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfo.cs
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CoreCompileInputs.cache
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.sourcelink.json
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.dll
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\refint\WhiteLagoon.Application.dll
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\obj\Debug\net8.0\ref\WhiteLagoon.Application.dll
