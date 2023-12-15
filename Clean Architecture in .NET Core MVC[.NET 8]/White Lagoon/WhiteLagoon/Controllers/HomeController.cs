@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using WhiteLagoon.Models;
+using WhiteLagoon.Web.Models;
 
 namespace WhiteLagoon.Controllers
 {
@@ -27,6 +27,7 @@ namespace WhiteLagoon.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
     }
 }

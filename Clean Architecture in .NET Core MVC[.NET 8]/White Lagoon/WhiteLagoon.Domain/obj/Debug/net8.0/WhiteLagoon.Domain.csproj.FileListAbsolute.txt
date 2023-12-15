@@ -1,6 +1,7 @@
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.deps.json
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.dll
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.csproj.AssemblyReference.cache
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfoInputs.cache
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfo.cs
