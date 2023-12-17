@@ -120,10 +120,12 @@ D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Application.dll
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Domain.dll
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Infrastructure.dll
-D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Infrastructure.pdb
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\obj\Debug\net8.0\staticwebassets.build.json
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\obj\Debug\net8.0\staticwebassets.development.json
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\obj\Debug\net8.0\staticwebassets\msbuild.WhiteLagoon.Web.Microsoft.AspNetCore.StaticWebAssets.props
@@ -140,5 +142,4 @@ D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\obj\Debug\net8.0\WhiteLagoon.Web.pdb
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\obj\Debug\net8.0\WhiteLagoon.Web.genruntimeconfig.cache
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\obj\Debug\net8.0\ref\WhiteLagoon.Web.dll
-D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Application.dll
-D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon\obj\Debug\net8.0\scopedcss\Views\Shared\_VillaDetail.cshtml.rz.scp.css

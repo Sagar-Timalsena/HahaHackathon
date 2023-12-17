@@ -2,7 +2,9 @@ D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Infrastructure.runtimeconfig.json
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Infrastructure.dll
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Infrastructure.pdb
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Application.dll
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Application.pdb
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.csproj.AssemblyReference.cache
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,5 +18,3 @@ D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.pdb
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.genruntimeconfig.cache
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\obj\Debug\net8.0\ref\WhiteLagoon.Infrastructure.dll
-D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Application.dll
-D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Application.pdb
