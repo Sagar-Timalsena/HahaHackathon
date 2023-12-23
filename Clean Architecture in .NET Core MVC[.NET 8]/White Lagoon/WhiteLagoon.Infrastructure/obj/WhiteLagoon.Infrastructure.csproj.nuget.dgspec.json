@@ -99,6 +99,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
@@ -150,6 +154,9 @@
             "projectReferences": {
               "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj": {
                 "projectPath": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj"
+              },
+              "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj": {
+                "projectPath": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj"
               }
             }
           }
@@ -164,10 +171,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

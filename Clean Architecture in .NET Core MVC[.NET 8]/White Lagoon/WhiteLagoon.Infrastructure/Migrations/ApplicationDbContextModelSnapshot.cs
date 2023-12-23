@@ -62,55 +62,19 @@ namespace WhiteLagoon.Infrastructure.Migrations
                         new
                         {
                             Id = 3,
-                            Name = "Private Balcony",
+                            Name = "Microwave",
                             VillaId = 1
                         },
                         new
                         {
                             Id = 4,
-                            Name = "1 king bed and 1 sofa bed",
-                            VillaId = 1
+                            Name = "Microwave",
+                            VillaId = 2
                         },
                         new
                         {
                             Id = 5,
-                            Name = "Private Plunge Pool",
-                            VillaId = 2
-                        },
-                        new
-                        {
-                            Id = 6,
-                            Name = "Microwave and Mini Refrigerator",
-                            VillaId = 2
-                        },
-                        new
-                        {
-                            Id = 7,
-                            Name = "Private Balcony",
-                            VillaId = 2
-                        },
-                        new
-                        {
-                            Id = 8,
-                            Name = "king bed or 2 double beds",
-                            VillaId = 2
-                        },
-                        new
-                        {
-                            Id = 9,
-                            Name = "Private Pool",
-                            VillaId = 3
-                        },
-                        new
-                        {
-                            Id = 10,
-                            Name = "Jacuzzi",
-                            VillaId = 3
-                        },
-                        new
-                        {
-                            Id = 11,
-                            Name = "Private Balcony",
+                            Name = "Microwave",
                             VillaId = 3
                         });
                 });
@@ -123,7 +87,7 @@ namespace WhiteLagoon.Infrastructure.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<DateTime?>("Created_Date")
+                    b.Property<DateTime?>("CreatedDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Description")
@@ -134,10 +98,10 @@ namespace WhiteLagoon.Infrastructure.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)");
 
-                    b.Property<int?>("Occupancy")
+                    b.Property<int>("Occupancy")
                         .HasColumnType("int");
 
                     b.Property<double>("Price")
@@ -146,7 +110,7 @@ namespace WhiteLagoon.Infrastructure.Migrations
                     b.Property<int>("Sqft")
                         .HasColumnType("int");
 
-                    b.Property<DateTime?>("Updated_Date")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -157,32 +121,32 @@ namespace WhiteLagoon.Infrastructure.Migrations
                         new
                         {
                             Id = 1,
-                            Description = "Fusce 11 tincidunt maximus leo, sed scelerisque massa auctor sit amet. Donec ex mauris, hendrerit quis nibh ac, efficitur fringilla enim.",
-                            ImageUrl = "https://placehold.co/600x400",
+                            Description = "kjjjjkkjkj  knkjkj mkkj",
+                            ImageUrl = " knmkmk ,mkm",
                             Name = "Royal Villa",
-                            Occupancy = 4,
-                            Price = 200.0,
-                            Sqft = 550
+                            Occupancy = 10,
+                            Price = 100.0,
+                            Sqft = 100
                         },
                         new
                         {
                             Id = 2,
-                            Description = "Fusce 11 tincidunt maximus leo, sed scelerisque massa auctor sit amet. Donec ex mauris, hendrerit quis nibh ac, efficitur fringilla enim.",
-                            ImageUrl = "https://placehold.co/600x401",
-                            Name = "Premium Pool Villa",
-                            Occupancy = 4,
-                            Price = 300.0,
-                            Sqft = 550
+                            Description = "kjjjjkkjkj  knkjkj mkkj",
+                            ImageUrl = " knmkmk ,mkm",
+                            Name = "King Villa",
+                            Occupancy = 10,
+                            Price = 100.0,
+                            Sqft = 200
                         },
                         new
                         {
                             Id = 3,
-                            Description = "Fusce 11 tincidunt maximus leo, sed scelerisque massa auctor sit amet. Donec ex mauris, hendrerit quis nibh ac, efficitur fringilla enim.",
-                            ImageUrl = "https://placehold.co/600x402",
-                            Name = "Luxury Pool Villa",
-                            Occupancy = 4,
-                            Price = 400.0,
-                            Sqft = 750
+                            Description = "kjjjjkkjkj  knkjkj mkkj",
+                            ImageUrl = " knmkmk ,mkm",
+                            Name = "King Villa",
+                            Occupancy = 10,
+                            Price = 100.0,
+                            Sqft = 200
                         });
                 });
 
@@ -221,11 +185,6 @@ namespace WhiteLagoon.Infrastructure.Migrations
                         },
                         new
                         {
-                            Villa_Number = 104,
-                            VillaId = 1
-                        },
-                        new
-                        {
                             Villa_Number = 201,
                             VillaId = 2
                         },
@@ -241,12 +200,22 @@ namespace WhiteLagoon.Infrastructure.Migrations
                         },
                         new
                         {
+                            Villa_Number = 204,
+                            VillaId = 2
+                        },
+                        new
+                        {
                             Villa_Number = 301,
                             VillaId = 3
                         },
                         new
                         {
                             Villa_Number = 302,
+                            VillaId = 3
+                        },
+                        new
+                        {
+                            Villa_Number = 303,
                             VillaId = 3
                         });
                 });

@@ -1,3 +1,18 @@
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.deps.json
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.dll
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.dll
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\refint\WhiteLagoon.Application.dll
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.pdb
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\ref\WhiteLagoon.Application.dll
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Training\Home\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CopyComplete
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.deps.json
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.dll
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.pdb
