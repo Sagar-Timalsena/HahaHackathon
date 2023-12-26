@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "81+lE25bP0Ar3nxGCsdgOcEFXWa3l8VY4cySHTaHolg=",
+  "Hash": "Ih7Fh7RXVtv4z2+RfJ/ypNl46Ca13bvAm7opaa2YyRc=",
   "Source": "WhiteLagoon.Web",
   "BasePath": "_content/WhiteLagoon.Web",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\css\\spinner.css",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "css/spinner.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\spinner.css"
+    },
+    {
       "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\favicon.ico",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
@@ -93,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\Villa1.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\accessDenied.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/Villa1.jpg",
+      "RelativePath": "images/accessDenied.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Villa1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\accessDenied.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\Villa2.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\notfound.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/Villa2.jpg",
+      "RelativePath": "images/notfound.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Villa2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\notfound.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\Villa3.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\orderConfirmed.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/Villa3.jpg",
+      "RelativePath": "images/orderConfirmed.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Villa3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\orderConfirmed.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\1515f664-589a-4a0f-86dc-2b9d35fc9ed3.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\placeholder.png",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/1515f664-589a-4a0f-86dc-2b9d35fc9ed3.jpg",
+      "RelativePath": "images/placeholder.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\1515f664-589a-4a0f-86dc-2b9d35fc9ed3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\placeholder.png"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\815541b3-8f77-49d4-92b3-7a56bf4782f3.png",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\resort.png",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/815541b3-8f77-49d4-92b3-7a56bf4782f3.png",
+      "RelativePath": "images/resort.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\815541b3-8f77-49d4-92b3-7a56bf4782f3.png"
+      "OriginalItemSpec": "wwwroot\\images\\resort.png"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\a3d67c6e-00cd-4628-a53a-535481383572.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\1.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/a3d67c6e-00cd-4628-a53a-535481383572.jpg",
+      "RelativePath": "images/Room Images/1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\a3d67c6e-00cd-4628-a53a-535481383572.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Room Images\\1.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\afe61cf5-9a89-4c6e-8294-0e23a7ffadcf.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\2.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/afe61cf5-9a89-4c6e-8294-0e23a7ffadcf.jpg",
+      "RelativePath": "images/Room Images/2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\afe61cf5-9a89-4c6e-8294-0e23a7ffadcf.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Room Images\\2.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\f1447fd7-c7bf-40fb-8a1d-248c148e86b1.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\3.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/f1447fd7-c7bf-40fb-8a1d-248c148e86b1.jpg",
+      "RelativePath": "images/Room Images/3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\f1447fd7-c7bf-40fb-8a1d-248c148e86b1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Room Images\\3.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\f6f2fff3-ac03-4eda-b03f-b503e263fc7b.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\4.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/f6f2fff3-ac03-4eda-b03f-b503e263fc7b.jpg",
+      "RelativePath": "images/Room Images/4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\f6f2fff3-ac03-4eda-b03f-b503e263fc7b.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Room Images\\4.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0002.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\5.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0002.jpg",
+      "RelativePath": "images/Room Images/5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0002.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Room Images\\5.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0003.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\6.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0003.jpg",
+      "RelativePath": "images/Room Images/6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +318,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0003.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Room Images\\6.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0004.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\7.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0004.jpg",
+      "RelativePath": "images/Room Images/7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0004.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Room Images\\7.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0005.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\slide1.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0005.jpg",
+      "RelativePath": "images/slide1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +356,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0005.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\slide1.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0006.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\slide2.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0006.jpg",
+      "RelativePath": "images/slide2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0006.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\slide2.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0007.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\32d7478c-7d9d-4817-9b27-335cf337e06a.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0007.jpg",
+      "RelativePath": "images/VillaImage/32d7478c-7d9d-4817-9b27-335cf337e06a.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,15 +394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0007.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\VillaImage\\32d7478c-7d9d-4817-9b27-335cf337e06a.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0008.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\e0a23a99-34a1-4654-ad17-56f0e5ed70d2.png",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0008.jpg",
+      "RelativePath": "images/VillaImage/e0a23a99-34a1-4654-ad17-56f0e5ed70d2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,15 +413,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0008.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\VillaImage\\e0a23a99-34a1-4654-ad17-56f0e5ed70d2.png"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0009.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\e6933def-8b9e-42c3-889d-26f6d22aae4c.jpg",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0009.jpg",
+      "RelativePath": "images/VillaImage/e6933def-8b9e-42c3-889d-26f6d22aae4c.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0009.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\VillaImage\\e6933def-8b9e-42c3-889d-26f6d22aae4c.jpg"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0010.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\LICENSE.txt",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0010.jpg",
+      "RelativePath": "jquery-ajax-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0010.jpg"
+      "OriginalItemSpec": "wwwroot\\jquery-ajax-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0011.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\package.json",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0011.jpg",
+      "RelativePath": "jquery-ajax-unobtrusive/package.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,15 +470,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0011.jpg"
+      "OriginalItemSpec": "wwwroot\\jquery-ajax-unobtrusive\\package.json"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0012.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\README.md",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0012.jpg",
+      "RelativePath": "jquery-ajax-unobtrusive/README.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,15 +489,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0012.jpg"
+      "OriginalItemSpec": "wwwroot\\jquery-ajax-unobtrusive\\README.md"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0013.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.js",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0013.jpg",
+      "RelativePath": "js/jquery.unobtrusive-ajax.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,15 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0013.jpg"
+      "OriginalItemSpec": "wwwroot\\js\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0014.jpg",
+      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
       "SourceId": "WhiteLagoon.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
       "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/IMG-20231221-WA0014.jpg",
+      "RelativePath": "js/jquery.unobtrusive-ajax.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -508,26 +527,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\IMG-20231221-WA0014.jpg"
-    },
-    {
-      "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\WhatsApp Image 2023-12-21 at 21.09.12_d027fd8d.jpg",
-      "SourceId": "WhiteLagoon.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\",
-      "BasePath": "_content/WhiteLagoon.Web",
-      "RelativePath": "Images/VillaImage/WhatsApp Image 2023-12-21 at 21.09.12_d027fd8d.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\VillaImage\\WhatsApp Image 2023-12-21 at 21.09.12_d027fd8d.jpg"
+      "OriginalItemSpec": "wwwroot\\js\\jquery.unobtrusive-ajax.min.js"
     },
     {
       "Identity": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",

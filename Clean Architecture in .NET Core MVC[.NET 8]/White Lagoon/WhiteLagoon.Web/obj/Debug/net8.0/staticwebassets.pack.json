@@ -5,104 +5,104 @@
       "PackagePath": "staticwebassets\\WhiteLagoon.Web.bundle.scp.css"
     },
     {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\Villa1.jpg",
-      "PackagePath": "staticwebassets\\Images\\Villa1.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\Villa2.jpg",
-      "PackagePath": "staticwebassets\\Images\\Villa2.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\Villa3.jpg",
-      "PackagePath": "staticwebassets\\Images\\Villa3.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\1515f664-589a-4a0f-86dc-2b9d35fc9ed3.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\1515f664-589a-4a0f-86dc-2b9d35fc9ed3.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\815541b3-8f77-49d4-92b3-7a56bf4782f3.png",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\815541b3-8f77-49d4-92b3-7a56bf4782f3.png"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0002.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0002.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0003.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0003.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0004.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0004.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0005.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0005.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0006.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0006.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0007.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0007.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0008.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0008.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0009.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0009.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0010.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0010.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0011.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0011.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0012.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0012.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0013.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0013.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\IMG-20231221-WA0014.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\IMG-20231221-WA0014.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\WhatsApp Image 2023-12-21 at 21.09.12_d027fd8d.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\WhatsApp Image 2023-12-21 at 21.09.12_d027fd8d.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\a3d67c6e-00cd-4628-a53a-535481383572.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\a3d67c6e-00cd-4628-a53a-535481383572.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\afe61cf5-9a89-4c6e-8294-0e23a7ffadcf.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\afe61cf5-9a89-4c6e-8294-0e23a7ffadcf.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\f1447fd7-c7bf-40fb-8a1d-248c148e86b1.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\f1447fd7-c7bf-40fb-8a1d-248c148e86b1.jpg"
-    },
-    {
-      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\Images\\VillaImage\\f6f2fff3-ac03-4eda-b03f-b503e263fc7b.jpg",
-      "PackagePath": "staticwebassets\\Images\\VillaImage\\f6f2fff3-ac03-4eda-b03f-b503e263fc7b.jpg"
-    },
-    {
       "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\css\\spinner.css",
+      "PackagePath": "staticwebassets\\css\\spinner.css"
+    },
+    {
       "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\1.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\2.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\3.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\4.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\5.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\6.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\7.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\32d7478c-7d9d-4817-9b27-335cf337e06a.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\32d7478c-7d9d-4817-9b27-335cf337e06a.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\e0a23a99-34a1-4654-ad17-56f0e5ed70d2.png",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\e0a23a99-34a1-4654-ad17-56f0e5ed70d2.png"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\e6933def-8b9e-42c3-889d-26f6d22aae4c.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\e6933def-8b9e-42c3-889d-26f6d22aae4c.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\accessDenied.jpg",
+      "PackagePath": "staticwebassets\\images\\accessDenied.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\notfound.jpg",
+      "PackagePath": "staticwebassets\\images\\notfound.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\orderConfirmed.jpg",
+      "PackagePath": "staticwebassets\\images\\orderConfirmed.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\resort.png",
+      "PackagePath": "staticwebassets\\images\\resort.png"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\images\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\README.md",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\README.md"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\package.json",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\package.json"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
     },
     {
       "Id": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Web\\wwwroot\\js\\site.js",

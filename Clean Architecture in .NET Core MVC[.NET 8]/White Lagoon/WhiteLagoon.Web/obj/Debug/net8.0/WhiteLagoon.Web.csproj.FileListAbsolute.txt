@@ -285,3 +285,5 @@ D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLagoon.Web.pdb
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLagoon.Web.genruntimeconfig.cache
 D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Web\obj\Debug\net8.0\ref\WhiteLagoon.Web.dll
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Learning\Clean Architecture in .NET Core MVC[.NET 8]\White Lagoon\WhiteLagoon.Web\bin\Debug\net8.0\libman.json

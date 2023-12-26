@@ -103,6 +103,10 @@
               "target": "Package",
               "version": "[5.0.17, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
@@ -171,6 +175,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -232,6 +240,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj": {
+                "projectPath": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj"
+              },
               "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Infrastructure\\WhiteLagoon.Infrastructure.csproj": {
                 "projectPath": "D:\\Learning\\Clean Architecture in .NET Core MVC[.NET 8]\\White Lagoon\\WhiteLagoon.Infrastructure\\WhiteLagoon.Infrastructure.csproj"
               }
